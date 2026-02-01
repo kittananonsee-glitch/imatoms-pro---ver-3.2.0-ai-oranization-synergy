@@ -1,0 +1,8 @@
+{
+  "name": "iMATOMs Pro - Ver 3.2.0 AI Oranization Synergy",
+  "description": "A high-end organizational synergy platform powered by Gemini AI, featuring real-time team analytics, strategic network visualization, and AI-driven management insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
